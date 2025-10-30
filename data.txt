@@ -1,0 +1,15 @@
+
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+
+
+git add .
+git commit -m "Added index.html for deployment"
+git push origin main
+
+
+
+
+git add .
+git commit -m "Updated data/content"
+git push origin main
